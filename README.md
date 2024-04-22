@@ -70,10 +70,12 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![Screenshot 2024-04-17 095155](https://github.com/AshwinKumar-Saveetha/T-FLIPFLOP-POSEDGE/assets/155129814/c611d257-9e13-48e9-9799-8e97b48700cd)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![Screenshot 2024-04-17 095030](https://github.com/AshwinKumar-Saveetha/T-FLIPFLOP-POSEDGE/assets/155129814/b9c412e0-c97b-402b-9fdf-317140446493)
 
 
 **RESULTS**
